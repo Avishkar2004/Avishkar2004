@@ -16,7 +16,7 @@ jobs:
           github_user_name: avishkar2004
           outputs: dist/snake.svg
           color_snake: "#00FF00"   # 🟢 Snake color (neon green)
-          color_dots: "#32CD32"    # 🟢 Dot color (lime green)
+          color_dots: "github"    # 🟢 Dot color (lime green)
 
       - name: Push Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v4
