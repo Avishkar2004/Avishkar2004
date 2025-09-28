@@ -30,7 +30,7 @@
 - 👨‍💻 My Portfolio → [avishkar2004.vercel.app](https://avishkar2004.vercel.app)
 - 💬 Ask me about **Web Development | System Design**
 - 📫 Reach me at **avishkarkakde2004@gmail.com**
-- 📄 Check my Resume → [View Resume](https://drive.google.com/file/d/1VPnAB3FMc5xxQFuzsCPR45iMOAa04LVX/view)
+- 📄 Check my Resume → [View Resume]([https://drive.google.com/file/d/1VPnAB3FMc5xxQFuzsCPR45iMOAa04LVX/view](https://drive.google.com/file/d/12amAigjycedBkqK4ZQHk-Ng2q2rTBT2n/view))
 
 ---
 
