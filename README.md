@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hi, I'm Avishkar Kakde 👋</h1>
-<h3 align="center">💻 A Passionate FullStack Developer from India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Software Developer from India 🇮🇳</h3>
 
 <!-- Profile Views -->
 <p align="center">
