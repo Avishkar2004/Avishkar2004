@@ -1,23 +1,23 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,35:8E2DE2,100:FE428E&height=220&section=header&text=Avishkar%20Kakde&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design%20Enthusiast%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00994F,100:00FF87&height=220&section=header&text=Avishkar%20Kakde&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design%20Enthusiast%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avishkar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Systems;DSA+%2B+System+Design+%2B+Chess+%E2%99%9F%EF%B8%8F;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF87&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avishkar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Systems;DSA+%2B+System+Design+%2B+Chess+%E2%99%9F%EF%B8%8F;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishkar2004&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=avishkar2004&label=Profile%20Views&color=00c853&style=for-the-badge" alt="profile views" />
   <a href="https://twitter.com/avishkarkakde" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/avishkarkakde?logo=twitter&style=for-the-badge&color=FE428E" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/avishkarkakde?logo=twitter&style=for-the-badge&color=00C853" alt="Twitter Follow"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-8E2DE2?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-FE428E?style=for-the-badge" alt="collab"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00C853?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00C853?style=for-the-badge" alt="collab"/>
 </p>
 
 <br/>
@@ -65,22 +65,22 @@ const avishkar = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avishkar2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkar2004&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avishkar2004&show_icons=true&bg_color=0D1117&title_color=00FF87&icon_color=00FF87&text_color=C9D1D9&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkar2004&layout=compact&bg_color=0D1117&title_color=00FF87&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkar2004&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=avishkar2004&hide_border=true&background=0D1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=00C853" alt="GitHub Streak" height="170"/>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishkar2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=avishkar2004&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" width="100%"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar2004&bg_color=0D1117&color=FE428E&line=8E2DE2&point=FFFFFF&area_color=8E2DE2&title_color=FE428E&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar2004&bg_color=0D1117&color=00FF87&line=00C853&point=FFFFFF&area_color=00C853&title_color=00FF87&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 </p>
 
 <br/>
@@ -107,10 +107,10 @@ const avishkar = {
 
 <!-- Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote"/>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,65:8E2DE2,100:0F0C29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:00994F,100:0D1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
 </p>
