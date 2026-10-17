@@ -1,23 +1,23 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Avishkar%20Kakde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design%20Enthusiast%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,35:8E2DE2,100:FE428E&height=220&section=header&text=Avishkar%20Kakde&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design%20Enthusiast%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avishkar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Systems;DSA+%2B+System+Design+%2B+Chess+%E2%99%9F%EF%B8%8F;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Avishkar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Scalable+Systems;DSA+%2B+System+Design+%2B+Chess+%E2%99%9F%EF%B8%8F;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avishkar2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=avishkar2004&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="profile views" />
   <a href="https://twitter.com/avishkarkakde" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/avishkarkakde?logo=twitter&style=for-the-badge&color=0e75b6" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/avishkarkakde?logo=twitter&style=for-the-badge&color=FE428E" alt="Twitter Follow"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-0e75b6?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" alt="collab"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-8E2DE2?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-FE428E?style=for-the-badge" alt="collab"/>
 </p>
 
 <br/>
@@ -80,7 +80,7 @@ const avishkar = {
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar2004&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar2004&bg_color=0D1117&color=FE428E&line=8E2DE2&point=FFFFFF&area_color=8E2DE2&title_color=FE428E&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 </p>
 
 <br/>
@@ -112,5 +112,5 @@ const avishkar = {
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,65:8E2DE2,100:0F0C29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
 </p>
