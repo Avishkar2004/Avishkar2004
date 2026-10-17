@@ -120,7 +120,7 @@ const avishkar: Developer = {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://avishkar2004.vercel.app" target="_blank">
+  <a href="https://avishkar2004.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/avishkar-kakde-6592b825b" target="_blank">
